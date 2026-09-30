@@ -1,6 +1,6 @@
 
 
-const API_URL = "http://127.0.0.1:8000/predict";
+const API_URL = "https://mental-health-score-vyoc.onrender.com";
 
 
 const MIN_SCORE = 0;
